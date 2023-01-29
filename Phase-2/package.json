@@ -1,0 +1,20 @@
+{
+	"name": "routing-roundup-solution",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon app.js",
+		"test": "mocha"
+	},
+	"dependencies": {
+		"express": "^4.17.1",
+		"mocha": "^7.1.1",
+		"pug": "^2.0.4"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.2"
+	},
+	"author": "",
+	"license": "ISC"
+}
